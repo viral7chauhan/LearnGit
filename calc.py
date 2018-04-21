@@ -11,7 +11,7 @@ def substraction(a,b):
 def multiplication(a,b):
     return a*b
 
-def devision(a,b):
+def division(a,b):
     return a/b
 
 total = sum(10, 20)
