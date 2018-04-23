@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-print "Hello python"
+print "Hello"
 
 def sum(a,b):
     return a+b
